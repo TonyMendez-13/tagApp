@@ -1,0 +1,11 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+ion-title.LftTtl {
+  left: 25%;
+}
+
+ion-title.RtTtl {
+  left: 75%;
+}

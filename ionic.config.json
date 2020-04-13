@@ -1,0 +1,7 @@
+{
+  "name": "Off-Duty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
